@@ -1214,3 +1214,10 @@ ul.link_menu li a:hover {
 .in_page .header {
      border-bottom: #8B4513 solid 2px;
 }
+
+.carousel-control-next{
+     z-index: 10;
+}
+.carousel-control-prev{
+     z-index: 10;
+}
